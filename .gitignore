@@ -1,2 +1,8 @@
 # virtual environvents
 .venv
+
+__pycache__
+.pytest_cache
+
+# development
+.vscode
